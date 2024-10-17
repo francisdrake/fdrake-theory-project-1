@@ -1,8 +1,7 @@
-# CODE FILE
+# code file
 # fdrake
 
 import csv
-from collections import defaultdict
 
 def read_cnf_csv(file):
     """Read in the cnfs and their metadata from given csv file."""
@@ -49,137 +48,67 @@ def read_cnf_csv(file):
 
     return cnfs
 
-def unit_propagate(wff):
-    """Locate and propagate clauses containing a single literal that must have a certain assignment."""
-    assignments = {}
-    unit_clauses = []
-    updated_wff = []
+def dpll(clauses, assignment):
+    """Recursive implementation of the Davis-Putnam-Logemann-Loveland Algorithm."""
+    # base cases
+    if not clauses:  # no clauses --> satisfied
+        return True, assignment
+    if any([not clause for clause in clauses]):  # any empty clause --> unsatisfied
+        return False, assignment
 
-    # determine which clauses are unit clauses
-    for clause in wff:
-        if len(clause) == 1:  # single literal clause
-            unit_clauses.append(clause[0])
-        elif len(clause) >= 2 and clause[0] == clause[1]:  # case for -9, -9
-            unit_clauses.append(clause[0])
-
-    # propagate any unit clauses
-    for literal in unit_clauses:
-        var = abs(literal)  # get the abs value
-        if literal < 0:
-            assignments[var] = False  # assign that var to false
-        else:
-            assignments[var] = True  # assign that var to true
-
-    # update wff given this new var assignment
-    for clause in wff:
-        if all(literal in assignments and assignments[literal] == (literal < 0) for literal in clause):
-            continue  # clause is satisfied - don't need to include in updated wff
-        else:
-            updated_clause = []
-            for literal in clause:
-                if abs(literal) in assignments:
-                    # if the variable is already assigned, remove it
-                    if (literal < 0) == assignments[abs(literal)]:
-                        continue
-                updated_clause.append(literal)
-            updated_wff.append(updated_clause)
-
-    return assignments, updated_wff
-    
-
-def pure_literals(formula, assignments): # only one assignment / polarity
-    """Locate and remove literals with one assignment in the entire wff."""
-    literal_count = defaultdict(int)
-    updated_wff = []
-
-    # count occurences of each literal
-    for clause in formula:
-        for literal in clause:
-            literal_count[literal] += 1
-
-    pure_literals = []
-
-    # identify pure literals
-    for literal, count in literal_count.items():
-        # check if the opposite literal exists
-        if -literal not in literal_count:
-            # if not then it's a pure literal
-            pure_literals.append(literal)
-
-            # if the literal is not already assigned, add it to assignments
-            if literal not in assignments and -literal not in assignments:
-                assignments[literal] = True if literal > 0 else False
-
-    # remove pure literals
-    for clause in formula:
-        # only keep clauses that do not contain pure literals
-        if not any(literal in assignments for literal in clause):
-            updated_wff.append(clause)
-
-    return pure_literals, assignments, updated_wff
-
-def choose_literal(wff):
-    """Choose the first non-empty clause to assign next."""
-    for clause in wff:
-        if clause:  # first non-empty clause
-            return clause[0]
-    return None
-
-def assign_literal(wff, literal):
-    """Assign a truth value to a given literal."""
-    updated_wff_with_assignment = []
-    for clause in wff:
-        # if the clause contains the literal --> it is satisfied
-        if literal in clause:
-            continue
-        # if the clause contains the negation of the literal
-        # remove negation so we can look at the other literal(s)
-        new_clause = [x for x in clause if x != -literal]
-        updated_wff_with_assignment.append(new_clause)
-    return updated_wff_with_assignment
-
-def dpll(clauses):
-    """Recursive implementation of the Davis–Putnam–Logemann–Loveland Algorithm."""
     # unit propagation
-    print(clauses)
-    assignments, wff = unit_propagate(clauses)
-    print("after unit propagation:", wff)
+    unit_clause = None
+    for clause in clauses:
+        # get the first clause with only one literal (unit clause)
+        if len(clause) == 1:
+            unit_clause = clause
+    if unit_clause:
+        # the variable in the unit clause must be assigned its truth value in the clause
+        return dpll(assign_variable(clauses, unit_clause[0]), assignment + [unit_clause[0]])
 
-    # break conditions
-    if not wff:
-        return True
-    if any(len(clause) == 0 for clause in wff):
-        return False
+    # get variable to assign 
+    chosen_var = abs(clauses[0][0])
     
-    # pure literal elimination
-    found_pure_literals, assignments, wff = pure_literals(wff, assignments)
-    print("pure literals:", found_pure_literals)
-    print("after pure literal elimination:", wff)
+    # try chosen var as true
+    satisfied, new_assignment = dpll(assign_variable(clauses, chosen_var), assignment + [chosen_var])
+    if satisfied: # don't need to try chosen var as false since true works
+        return True, new_assignment
+    
+    # else try chosen var as false
+    satisfied, new_assignment = dpll(assign_variable(clauses, -chosen_var), assignment + [-chosen_var])
+    return satisfied, new_assignment
 
-    # break conditions
-    # (checking after literal elimination and unit propagation)
-    if not wff:
-        # all clauses satisfied and thus removed
-        return True
-    if any(len(clause) == 0 for clause in wff):
-        # no satisfiable assignment for a particular clause
-        return False
-        
-    # dpll recursive call
-    literal = choose_literal(wff)
-    return dpll(assign_literal(wff, literal)) or dpll(assign_literal(wff, -literal))
-
+def assign_variable(clauses, var):
+    """Update wff based on new assignment of a variable."""
+    updated_wff = []
+    for clause in clauses:
+        if var in clause:
+            continue  # satisfied --> removed from wff
+        new_clause = [x for x in clause if x != -var]  # propagation - remove negation of the assignment
+        updated_wff.append(new_clause)
+    return updated_wff
 
 def main():
-    cnfs = read_cnf_csv("2SAT.cnf.csv")
-    #print(cnfs)
-    for i, cnf in enumerate(cnfs):
-        # print(cnf["metadata"])
-        # print(cnf["wff"])
-        # print()
-        print(dpll(cnf["wff"]))
-        if i == 5:
-            break
+    file = "kSAT.cnf.csv" # test file
+    cnfs = read_cnf_csv(file)
+
+    num_correct = 0
+    num_wrong = 0
+
+    for cnf in cnfs:
+        satisfiable, assignment = dpll(cnf['wff'], [])
+
+        answer = cnf['metadata']['satisfiability']
+
+        # check if right answer
+        if answer == "S" and satisfiable == True:
+            num_correct += 1
+        elif answer == "U" and satisfiable == False:
+            num_correct += 1
+        else:
+            num_wrong += 1
+
+    print(f"{num_correct} correct, {num_wrong} wrong")
 
 if __name__ == "__main__":
     main()
