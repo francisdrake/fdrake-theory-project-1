@@ -2,6 +2,8 @@
 # fdrake
 
 import csv
+import time
+import random
 
 def read_cnf_csv(file):
     """Read in the cnfs and their metadata from given csv file."""
@@ -19,7 +21,7 @@ def read_cnf_csv(file):
         for line in csv_reader:
             # first line is metadata
             if line[0] == 'c':
-                if current_cnf["wff"]:  # if there's already data in the current CNF, append it and start a new one
+                if current_cnf["wff"]:  # if there's already data in the current cnf, append it and start a new one
                     cnfs.append(current_cnf)
                     current_cnf = {
                         "metadata": {},
@@ -46,6 +48,8 @@ def read_cnf_csv(file):
         if current_cnf["wff"]:
             cnfs.append(current_cnf)
 
+    # sort cnfs first by number of clauses * number of vars
+    cnfs.sort(key=lambda x: x['clauses'] * x['vars'])
     return cnfs
 
 def dpll(clauses, assignment):
@@ -65,6 +69,8 @@ def dpll(clauses, assignment):
     if unit_clause:
         # the variable in the unit clause must be assigned its truth value in the clause
         return dpll(assign_variable(clauses, unit_clause[0]), assignment + [unit_clause[0]])
+    
+    # TODO add pure literal
 
     # get variable to assign 
     chosen_var = abs(clauses[0][0])
@@ -88,15 +94,20 @@ def assign_variable(clauses, var):
         updated_wff.append(new_clause)
     return updated_wff
 
-def main():
+def get_and_write_data():
     file = "kSAT.cnf.csv" # test file
+    output_file = "output_fdrake.csv"
     cnfs = read_cnf_csv(file)
 
     num_correct = 0
     num_wrong = 0
 
     for cnf in cnfs:
+        start = time.time()
         satisfiable, assignment = dpll(cnf['wff'], [])
+        end = time.time()
+        exec_time=int((end-start)*1e6)
+        print(exec_time)
 
         answer = cnf['metadata']['satisfiability']
 
@@ -109,6 +120,9 @@ def main():
             num_wrong += 1
 
     print(f"{num_correct} correct, {num_wrong} wrong")
+
+def main():
+    get_and_write_data()
 
 if __name__ == "__main__":
     main()
