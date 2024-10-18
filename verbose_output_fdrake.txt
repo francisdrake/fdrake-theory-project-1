@@ -1,0 +1,1601 @@
+problem_number,execution_time,variables,clauses,problem_type
+1,62,4,10,U
+assignment of variables: [-3, -4]
+# of recursive calls: 4
+Accuracy: 1 correct out of 1 problems.
+2,32,4,10,S
+assignment of variables: [-1, 4, 3, 2]
+# of recursive calls: 13
+Accuracy: 2 correct out of 2 problems.
+3,22,4,10,U
+assignment of variables: [-2, -1]
+# of recursive calls: 18
+Accuracy: 3 correct out of 3 problems.
+4,22,4,10,S
+assignment of variables: [-4, 1, 2, 3]
+# of recursive calls: 23
+Accuracy: 4 correct out of 4 problems.
+5,24,4,10,S
+assignment of variables: [3, -1, 4, -2]
+# of recursive calls: 29
+Accuracy: 5 correct out of 5 problems.
+6,15,4,10,S
+assignment of variables: [2, 1, 4, 3]
+# of recursive calls: 34
+Accuracy: 6 correct out of 6 problems.
+7,22,4,10,S
+assignment of variables: [-4, -1, -2]
+# of recursive calls: 41
+Accuracy: 7 correct out of 7 problems.
+8,23,4,10,U
+assignment of variables: [-3, -2, -4]
+# of recursive calls: 47
+Accuracy: 8 correct out of 8 problems.
+9,20,4,10,U
+assignment of variables: [-4, -3, -1]
+# of recursive calls: 53
+Accuracy: 9 correct out of 9 problems.
+10,26,4,10,U
+assignment of variables: [-1, -4, 3, 2]
+# of recursive calls: 62
+Accuracy: 10 correct out of 10 problems.
+81,54,4,20,U
+assignment of variables: [-4, -1, -2]
+# of recursive calls: 71
+Accuracy: 11 correct out of 11 problems.
+82,47,4,20,S
+assignment of variables: [-2, -3, 1, -4]
+# of recursive calls: 81
+Accuracy: 12 correct out of 12 problems.
+83,25,4,20,S
+assignment of variables: [4, -1, 2, 3]
+# of recursive calls: 86
+Accuracy: 13 correct out of 13 problems.
+84,26,4,20,S
+assignment of variables: [3, -4, 2, 1]
+# of recursive calls: 91
+Accuracy: 14 correct out of 14 problems.
+85,83,4,20,U
+assignment of variables: [-2, -3, 1]
+# of recursive calls: 104
+Accuracy: 15 correct out of 15 problems.
+86,21,4,20,S
+assignment of variables: [1, 4, -3, 2]
+# of recursive calls: 109
+Accuracy: 16 correct out of 16 problems.
+87,72,4,20,U
+assignment of variables: [-2, -1, 3]
+# of recursive calls: 122
+Accuracy: 17 correct out of 17 problems.
+88,69,4,20,U
+assignment of variables: [-4, -3, -2]
+# of recursive calls: 132
+Accuracy: 18 correct out of 18 problems.
+89,72,4,20,U
+assignment of variables: [-1, -4, 3, -2]
+# of recursive calls: 147
+Accuracy: 19 correct out of 19 problems.
+90,42,4,20,S
+assignment of variables: [-2, 1, 3, -4]
+# of recursive calls: 154
+Accuracy: 20 correct out of 20 problems.
+11,122,8,16,U
+assignment of variables: [5, 6, 2, -8, -7, 1]
+# of recursive calls: 163
+Accuracy: 21 correct out of 21 problems.
+12,69,8,16,U
+assignment of variables: [8, -4, -7, -3, 2, 5, 6]
+# of recursive calls: 174
+Accuracy: 22 correct out of 22 problems.
+13,40,8,16,S
+assignment of variables: [1, 5, -8, -2, 7, -4, -3]
+# of recursive calls: 182
+Accuracy: 23 correct out of 23 problems.
+14,64,8,16,S
+assignment of variables: [6, -3, -1, 4, 2, 5, 7, 8]
+# of recursive calls: 191
+Accuracy: 24 correct out of 24 problems.
+15,70,8,16,U
+assignment of variables: [-7, -3, -1, -6, -5, -4]
+# of recursive calls: 203
+Accuracy: 25 correct out of 25 problems.
+16,63,8,16,U
+assignment of variables: [-4, -7, -6, -8]
+# of recursive calls: 211
+Accuracy: 26 correct out of 26 problems.
+17,38,8,16,S
+assignment of variables: [7, -8, 1, -6, -3, -5, -2, -4]
+# of recursive calls: 220
+Accuracy: 27 correct out of 27 problems.
+18,54,8,16,U
+assignment of variables: [1, 7, -3]
+# of recursive calls: 228
+Accuracy: 28 correct out of 28 problems.
+19,47,8,16,S
+assignment of variables: [6, -1, 7, -8, 2, 3, -4]
+# of recursive calls: 238
+Accuracy: 29 correct out of 29 problems.
+20,56,8,16,S
+assignment of variables: [8, 6, -4, 1, 5, 3, 7]
+# of recursive calls: 246
+Accuracy: 30 correct out of 30 problems.
+161,66,4,40,S
+assignment of variables: [2, -4, 1, 3]
+# of recursive calls: 252
+Accuracy: 31 correct out of 31 problems.
+162,113,4,40,U
+assignment of variables: [-1, -2]
+# of recursive calls: 265
+Accuracy: 32 correct out of 32 problems.
+163,84,4,40,U
+assignment of variables: [-4, -2, -3]
+# of recursive calls: 272
+Accuracy: 33 correct out of 33 problems.
+164,83,4,40,S
+assignment of variables: [-1, -3, 4, 2]
+# of recursive calls: 283
+Accuracy: 34 correct out of 34 problems.
+165,52,4,40,S
+assignment of variables: [1, 4, 2, -3]
+# of recursive calls: 288
+Accuracy: 35 correct out of 35 problems.
+166,52,4,40,S
+assignment of variables: [2, 4, 3, 1]
+# of recursive calls: 293
+Accuracy: 36 correct out of 36 problems.
+167,144,4,40,S
+assignment of variables: [-2, -4, -1, 3]
+# of recursive calls: 312
+Accuracy: 37 correct out of 37 problems.
+168,45,4,40,S
+assignment of variables: [1, -3, -4, 2]
+# of recursive calls: 317
+Accuracy: 38 correct out of 38 problems.
+169,52,4,40,S
+assignment of variables: [3, 1, 4, 2]
+# of recursive calls: 322
+Accuracy: 39 correct out of 39 problems.
+170,125,4,40,S
+assignment of variables: [-3, -1, 2, -4]
+# of recursive calls: 336
+Accuracy: 40 correct out of 40 problems.
+241,69,4,40,S
+assignment of variables: [1, 2, -3, 4]
+# of recursive calls: 343
+Accuracy: 41 correct out of 41 problems.
+242,108,4,40,S
+assignment of variables: [3, -4, 2, -1]
+# of recursive calls: 350
+Accuracy: 42 correct out of 42 problems.
+243,58,4,40,S
+assignment of variables: [3, 2, -4, 1]
+# of recursive calls: 355
+Accuracy: 43 correct out of 43 problems.
+244,65,4,40,S
+assignment of variables: [4, -2, -1, -3]
+# of recursive calls: 364
+Accuracy: 44 correct out of 44 problems.
+245,61,4,40,S
+assignment of variables: [2, 1, 3, 4]
+# of recursive calls: 369
+Accuracy: 45 correct out of 45 problems.
+246,110,4,40,S
+assignment of variables: [-1, 3, 2, 4]
+# of recursive calls: 381
+Accuracy: 46 correct out of 46 problems.
+247,72,4,40,S
+assignment of variables: [4, -2, 3, -1]
+# of recursive calls: 388
+Accuracy: 47 correct out of 47 problems.
+248,58,4,40,S
+assignment of variables: [4, 1, 3, 2]
+# of recursive calls: 393
+Accuracy: 48 correct out of 48 problems.
+249,81,4,40,S
+assignment of variables: [3, -4, 1, 2]
+# of recursive calls: 401
+Accuracy: 49 correct out of 49 problems.
+250,60,4,40,S
+assignment of variables: [4, 3, -1, -2]
+# of recursive calls: 407
+Accuracy: 50 correct out of 50 problems.
+321,57,4,40,S
+assignment of variables: [3, 2, 1, 4]
+# of recursive calls: 412
+Accuracy: 51 correct out of 51 problems.
+322,59,4,40,S
+assignment of variables: [4, 1, 3, 2]
+# of recursive calls: 417
+Accuracy: 52 correct out of 52 problems.
+323,62,4,40,S
+assignment of variables: [1, 3, 2]
+# of recursive calls: 421
+Accuracy: 53 correct out of 53 problems.
+324,59,4,40,S
+assignment of variables: [2, 4, 1, -3]
+# of recursive calls: 427
+Accuracy: 54 correct out of 54 problems.
+325,63,4,40,S
+assignment of variables: [2, 1, -3]
+# of recursive calls: 431
+Accuracy: 55 correct out of 55 problems.
+326,66,4,40,S
+assignment of variables: [1, 3, -2, -4]
+# of recursive calls: 438
+Accuracy: 56 correct out of 56 problems.
+327,61,4,40,S
+assignment of variables: [1, 2, 3, 4]
+# of recursive calls: 443
+Accuracy: 57 correct out of 57 problems.
+328,77,4,40,S
+assignment of variables: [3, 4, -1, -2]
+# of recursive calls: 449
+Accuracy: 58 correct out of 58 problems.
+329,72,4,40,S
+assignment of variables: [4, 1, -2, 3]
+# of recursive calls: 455
+Accuracy: 59 correct out of 59 problems.
+330,75,4,40,S
+assignment of variables: [1, -4, 2, -3]
+# of recursive calls: 465
+Accuracy: 60 correct out of 60 problems.
+21,129,12,24,S
+assignment of variables: [6, 7, 10, 5, -8, 9, -2, 12, 11, -1, 4, -3]
+# of recursive calls: 478
+Accuracy: 61 correct out of 61 problems.
+22,125,12,24,S
+assignment of variables: [-3, 9, -4, -1, -2, -7, 8, -11, -6, -5, 10, -12]
+# of recursive calls: 493
+Accuracy: 62 correct out of 62 problems.
+23,144,12,24,U
+assignment of variables: [-3, -6, -8, -5, 4, -7, 9, -12, -10]
+# of recursive calls: 506
+Accuracy: 63 correct out of 63 problems.
+24,114,12,24,U
+assignment of variables: [-3, -7, -12, 8, -6, -5, 2]
+# of recursive calls: 517
+Accuracy: 64 correct out of 64 problems.
+25,116,12,24,S
+assignment of variables: [1, -2, -11, -12, 10, 5, 7, -9, 3, 4, -6, 8]
+# of recursive calls: 530
+Accuracy: 65 correct out of 65 problems.
+26,113,12,24,U
+assignment of variables: [8, 6, -12, 1, 10, -9, 2]
+# of recursive calls: 543
+Accuracy: 66 correct out of 66 problems.
+27,83,12,24,U
+assignment of variables: [-7, -9, 1, -11, -5]
+# of recursive calls: 551
+Accuracy: 67 correct out of 67 problems.
+28,132,12,24,S
+assignment of variables: [11, 10, -6, 8, -2, 3, 1, -4, 5, 12, -7, 9]
+# of recursive calls: 570
+Accuracy: 68 correct out of 68 problems.
+29,124,12,24,U
+assignment of variables: [-1, 4, 5, -9, -6, 11, 2, -7, -8, -10]
+# of recursive calls: 584
+Accuracy: 69 correct out of 69 problems.
+30,117,12,24,S
+assignment of variables: [-1, 4, -2, 8, 6, -12, 9, 11, 3, 7, -5, 10]
+# of recursive calls: 597
+Accuracy: 70 correct out of 70 problems.
+91,82,8,40,S
+assignment of variables: [2, 5, 3, -7, 8, 4, -6]
+# of recursive calls: 605
+Accuracy: 71 correct out of 71 problems.
+92,184,8,40,S
+assignment of variables: [-7, -2, -3, 1, -8, -6, 4, 5]
+# of recursive calls: 621
+Accuracy: 72 correct out of 72 problems.
+93,257,8,40,S
+assignment of variables: [-8, -2, 4, -3, -5, 7, 1, 6]
+# of recursive calls: 648
+Accuracy: 73 correct out of 73 problems.
+94,177,8,40,U
+assignment of variables: [-3, 6, 5, -4, 1]
+# of recursive calls: 666
+Accuracy: 74 correct out of 74 problems.
+95,277,8,40,U
+assignment of variables: [-3, -1, -4, 5, -2, -7]
+# of recursive calls: 688
+Accuracy: 75 correct out of 75 problems.
+96,290,8,40,U
+assignment of variables: [-6, -7, -3, -2, -5, -8, 4, -1]
+# of recursive calls: 720
+Accuracy: 76 correct out of 76 problems.
+97,223,8,40,U
+assignment of variables: [-4, -5, -6, -3, 7, -1, 8]
+# of recursive calls: 743
+Accuracy: 77 correct out of 77 problems.
+98,234,8,40,U
+assignment of variables: [-6, -5, -1, -4, -7, -3, 8, -2]
+# of recursive calls: 768
+Accuracy: 78 correct out of 78 problems.
+99,134,8,40,U
+assignment of variables: [-7, 4]
+# of recursive calls: 780
+Accuracy: 79 correct out of 79 problems.
+100,237,8,40,U
+assignment of variables: [-3, -8, -7, -4]
+# of recursive calls: 805
+Accuracy: 80 correct out of 80 problems.
+31,188,16,32,S
+assignment of variables: [-2, -8, -14, -11, 9, -3, 7, 4, -1, -5, 12, 13, 6, -16]
+# of recursive calls: 821
+Accuracy: 81 correct out of 81 problems.
+32,196,16,32,U
+assignment of variables: [-14, 12, 5, -8, -7, -13, -11, -2, 6, -3]
+# of recursive calls: 837
+Accuracy: 82 correct out of 82 problems.
+33,185,16,32,S
+assignment of variables: [9, 16, -5, 10, 2, 8, -1, -11, 14, 6, 12, -3, 4, 13, 15, -7]
+# of recursive calls: 857
+Accuracy: 83 correct out of 83 problems.
+34,208,16,32,S
+assignment of variables: [-8, 2, 3, 16, -11, 1, 10, 15, -7, 4, -9, 12, 13, 5, 14]
+# of recursive calls: 873
+Accuracy: 84 correct out of 84 problems.
+35,165,16,32,U
+assignment of variables: [7, 5, 6, -11, -9, -2, 8, 15, 1, 12]
+# of recursive calls: 885
+Accuracy: 85 correct out of 85 problems.
+36,254,16,32,S
+assignment of variables: [-11, 8, -5, 7, 9, 1, 14, -3, 4, 15, 16, -6, -13, 12, 10, 2]
+# of recursive calls: 908
+Accuracy: 86 correct out of 86 problems.
+37,225,16,32,U
+assignment of variables: [4, 14, -9, -16, 11, -5, 6, -15, 8, 2, -3]
+# of recursive calls: 924
+Accuracy: 87 correct out of 87 problems.
+38,222,16,32,U
+assignment of variables: [6, 5, -15, 7, 11, -14, 10, 12, 8]
+# of recursive calls: 942
+Accuracy: 88 correct out of 88 problems.
+39,216,16,32,S
+assignment of variables: [9, -2, 3, -14, -5, -8, 15, 7, 12, -16, 11, -10, 4, -6, -13, 1]
+# of recursive calls: 959
+Accuracy: 89 correct out of 89 problems.
+40,214,16,32,U
+assignment of variables: [-5, -4, -13, -15, -8, -7, -1, 6, -2, 16]
+# of recursive calls: 975
+Accuracy: 90 correct out of 90 problems.
+171,246,8,80,S
+assignment of variables: [7, 3, -4, -1, 2, 5, 6, -8]
+# of recursive calls: 985
+Accuracy: 91 correct out of 91 problems.
+172,315,8,80,S
+assignment of variables: [6, -4, 7, -3, 8, 1, 5, 2]
+# of recursive calls: 1001
+Accuracy: 92 correct out of 92 problems.
+173,184,8,80,S
+assignment of variables: [6, 3, 2, -8, -5, -1, -4, -7]
+# of recursive calls: 1010
+Accuracy: 93 correct out of 93 problems.
+174,324,8,80,S
+assignment of variables: [1, -2, 3, -7, -8, -5, 4, 6]
+# of recursive calls: 1034
+Accuracy: 94 correct out of 94 problems.
+175,459,8,80,S
+assignment of variables: [8, -1, 7, -5, 3, 6, 2]
+# of recursive calls: 1065
+Accuracy: 95 correct out of 95 problems.
+176,684,8,80,U
+assignment of variables: [-1, -6, 2, 8, 5, -3]
+# of recursive calls: 1103
+Accuracy: 96 correct out of 96 problems.
+177,907,8,80,U
+assignment of variables: [-4, -7, -5, -6, 2]
+# of recursive calls: 1160
+Accuracy: 97 correct out of 97 problems.
+178,182,8,80,S
+assignment of variables: [2, 8, 4, 5, 1, -6, 7, 3]
+# of recursive calls: 1169
+Accuracy: 98 correct out of 98 problems.
+179,843,8,80,U
+assignment of variables: [-4, -5, -2, -8, -3, -1, 7]
+# of recursive calls: 1223
+Accuracy: 99 correct out of 99 problems.
+180,699,8,80,U
+assignment of variables: [-3, -7, -2, -6, 4, -1, -5]
+# of recursive calls: 1272
+Accuracy: 100 correct out of 100 problems.
+251,374,8,80,S
+assignment of variables: [8, 7, -3, 2, -4, 1, 6, 5]
+# of recursive calls: 1288
+Accuracy: 101 correct out of 101 problems.
+252,222,8,80,S
+assignment of variables: [1, 2, 3, 5, 8, -7, 4, 6]
+# of recursive calls: 1297
+Accuracy: 102 correct out of 102 problems.
+253,193,8,80,S
+assignment of variables: [7, 8, 5, 2, 4, 3, 6, -1]
+# of recursive calls: 1306
+Accuracy: 103 correct out of 103 problems.
+254,218,8,80,S
+assignment of variables: [6, 1, 2, 4, 3, 5, 7, 8]
+# of recursive calls: 1315
+Accuracy: 104 correct out of 104 problems.
+255,204,8,80,S
+assignment of variables: [1, 8, 2, -7, 5, 6, -3, 4]
+# of recursive calls: 1324
+Accuracy: 105 correct out of 105 problems.
+256,750,8,80,S
+assignment of variables: [8, -5, -6, -2, 3, 1, -4, -7]
+# of recursive calls: 1392
+Accuracy: 106 correct out of 106 problems.
+257,245,8,80,S
+assignment of variables: [6, 2, 3, 5, 8, -7, -4, -1]
+# of recursive calls: 1404
+Accuracy: 107 correct out of 107 problems.
+258,315,8,80,S
+assignment of variables: [2, 7, 3, 1, -5, 4, 8, 6]
+# of recursive calls: 1418
+Accuracy: 108 correct out of 108 problems.
+259,218,8,80,S
+assignment of variables: [1, 5, 3, -6, -7, 2, -4, 8]
+# of recursive calls: 1427
+Accuracy: 109 correct out of 109 problems.
+260,226,8,80,S
+assignment of variables: [4, 7, 6, 3, 5, 2, -8, -1]
+# of recursive calls: 1436
+Accuracy: 110 correct out of 110 problems.
+331,263,8,80,S
+assignment of variables: [6, 8, 3, 1, 4, 5, 7]
+# of recursive calls: 1444
+Accuracy: 111 correct out of 111 problems.
+332,238,8,80,S
+assignment of variables: [4, 7, 8, 6, 1, 5, 3, 2]
+# of recursive calls: 1453
+Accuracy: 112 correct out of 112 problems.
+333,263,8,80,S
+assignment of variables: [6, 7, 5, 1, 8, 3, 2, -4]
+# of recursive calls: 1462
+Accuracy: 113 correct out of 113 problems.
+334,277,8,80,S
+assignment of variables: [4, 7, 2, 3, 8, 6, 1, 5]
+# of recursive calls: 1471
+Accuracy: 114 correct out of 114 problems.
+335,232,8,80,S
+assignment of variables: [3, 2, 1, 8, 6, 7, 5, 4]
+# of recursive calls: 1480
+Accuracy: 115 correct out of 115 problems.
+336,208,8,80,S
+assignment of variables: [1, 8, 4, 3, 2, 7, -6, -5]
+# of recursive calls: 1489
+Accuracy: 116 correct out of 116 problems.
+337,229,8,80,S
+assignment of variables: [4, 5, 1, 3, 7, -6, -8, 2]
+# of recursive calls: 1500
+Accuracy: 117 correct out of 117 problems.
+338,236,8,80,S
+assignment of variables: [2, 1, 7, 5, 3, 8, 4, 6]
+# of recursive calls: 1509
+Accuracy: 118 correct out of 118 problems.
+339,246,8,80,S
+assignment of variables: [3, 8, 2, 5, 6, 1, -7]
+# of recursive calls: 1517
+Accuracy: 119 correct out of 119 problems.
+340,274,8,80,S
+assignment of variables: [7, 2, 5, 4, 6, 3, 8, 1]
+# of recursive calls: 1526
+Accuracy: 120 correct out of 120 problems.
+41,209,18,36,U
+assignment of variables: [6, -11, 12, 9, -17, -13]
+# of recursive calls: 1535
+Accuracy: 121 correct out of 121 problems.
+42,179,18,36,U
+assignment of variables: [2, -4, -18, 14, -3]
+# of recursive calls: 1547
+Accuracy: 122 correct out of 122 problems.
+43,183,18,36,U
+assignment of variables: [17, 9, -7, 18, -2, 12]
+# of recursive calls: 1556
+Accuracy: 123 correct out of 123 problems.
+44,270,18,36,U
+assignment of variables: [-14, 3, -7, 2, -6, -5, -15, -8, -18, -12, -13]
+# of recursive calls: 1574
+Accuracy: 124 correct out of 124 problems.
+45,271,18,36,U
+assignment of variables: [-10, 18, -6, -5, 16, -3, -14, -13, 11]
+# of recursive calls: 1593
+Accuracy: 125 correct out of 125 problems.
+46,291,18,36,U
+assignment of variables: [16, -14, -9, 10, -7, 4, -13, 5, -6, -12, -3, -18, 15]
+# of recursive calls: 1614
+Accuracy: 126 correct out of 126 problems.
+47,259,18,36,U
+assignment of variables: [-8, -15, 9, 3, 7, -6, -12, -18, -10, 14, -13, -4]
+# of recursive calls: 1633
+Accuracy: 127 correct out of 127 problems.
+48,237,18,36,S
+assignment of variables: [18, -17, -12, 10, 13, 15, 5, -4, 3, -6, -8, -11, 2, -16, -14, 1]
+# of recursive calls: 1650
+Accuracy: 128 correct out of 128 problems.
+49,276,18,36,U
+assignment of variables: [5, 10, -1, 7, 6, -3, 2, -12, 9, 16, -8, 11, 18, 15, -13]
+# of recursive calls: 1670
+Accuracy: 129 correct out of 129 problems.
+50,248,18,36,S
+assignment of variables: [-12, 5, 9, -2, 15, 10, 16, 1, 11, -13, 4, -17, -8, -6, 3, -7, -14, -18]
+# of recursive calls: 1689
+Accuracy: 130 correct out of 130 problems.
+101,857,12,60,U
+assignment of variables: [-10, -12, -4]
+# of recursive calls: 1736
+Accuracy: 131 correct out of 131 problems.
+102,941,12,60,S
+assignment of variables: [-3, -10, -12, -7, 8, -9, -6, -1, 4, 2, -5, -11]
+# of recursive calls: 1803
+Accuracy: 132 correct out of 132 problems.
+103,376,12,60,U
+assignment of variables: [-12, -10, -2]
+# of recursive calls: 1819
+Accuracy: 133 correct out of 133 problems.
+104,205,12,60,S
+assignment of variables: [1, -2, -9, -4, -3, -8, -12, -10, 11, -7, -5, -6]
+# of recursive calls: 1835
+Accuracy: 134 correct out of 134 problems.
+105,547,12,60,U
+assignment of variables: [-10, -9, 12]
+# of recursive calls: 1865
+Accuracy: 135 correct out of 135 problems.
+106,659,12,60,U
+assignment of variables: [-12, -1]
+# of recursive calls: 1903
+Accuracy: 136 correct out of 136 problems.
+107,983,12,60,U
+assignment of variables: [-4, -8, 3, -12, -11, 9, 1, 7, 5, -10, -6, 2]
+# of recursive calls: 1962
+Accuracy: 137 correct out of 137 problems.
+108,1192,12,60,U
+assignment of variables: [-3, -7, -4, -9, 5, -10, 8]
+# of recursive calls: 2032
+Accuracy: 138 correct out of 138 problems.
+109,324,12,60,S
+assignment of variables: [5, 8, 2, 9, -12, 1, -6, -4, -11, 10, -7, -3]
+# of recursive calls: 2054
+Accuracy: 139 correct out of 139 problems.
+110,854,12,60,U
+assignment of variables: [-7, 10, -11, -12, -5, -9, 8, 3, -1, 4]
+# of recursive calls: 2110
+Accuracy: 140 correct out of 140 problems.
+51,298,20,40,U
+assignment of variables: [-16, 2, 12, 11, 10, -7, 1, -4, 15, -9, -8, -17, 19, -6]
+# of recursive calls: 2126
+Accuracy: 141 correct out of 141 problems.
+52,281,20,40,U
+assignment of variables: [-15, -2, 14, 18, -11, 19, 8, 13, 10, -9, 16, -6]
+# of recursive calls: 2141
+Accuracy: 142 correct out of 142 problems.
+53,314,20,40,S
+assignment of variables: [17, -8, -5, 18, -10, 7, -12, 15, 20, -4, 19, -16, -14, -9, -2, 13, 3, 6]
+# of recursive calls: 2164
+Accuracy: 143 correct out of 143 problems.
+54,298,20,40,U
+assignment of variables: [14, 4, 12, -1, -10, 6, -9, -5, 15, -13, -18]
+# of recursive calls: 2181
+Accuracy: 144 correct out of 144 problems.
+55,307,20,40,U
+assignment of variables: [4, 17, -1, -3, -7, 2, -11, 9, 12, 14, -20, 6, 8, -5, -13]
+# of recursive calls: 2202
+Accuracy: 145 correct out of 145 problems.
+56,261,20,40,U
+assignment of variables: [16, -12, -1, -3, -7, -15, 19, 11, -18, 2]
+# of recursive calls: 2214
+Accuracy: 146 correct out of 146 problems.
+57,344,20,40,U
+assignment of variables: [8, -15, 10, -7, 3, 16, -12, 11, -2, -6, 13, -1, -4, 17, -18]
+# of recursive calls: 2237
+Accuracy: 147 correct out of 147 problems.
+58,272,20,40,S
+assignment of variables: [-10, -13, 17, 8, 19, -20, 15, -5, -9, 12, -11, 16, -4, 1, 6, -3, 2, -7, 18]
+# of recursive calls: 2257
+Accuracy: 148 correct out of 148 problems.
+59,265,20,40,U
+assignment of variables: [-15, -13, 18, 7, -5, -1, -6, -16]
+# of recursive calls: 2269
+Accuracy: 149 correct out of 149 problems.
+60,293,20,40,S
+assignment of variables: [-9, -3, 5, -20, 11, -15, -4, 12, -8, -7, 10, -1, 18, -14, -6, -16, -13, -17, -19]
+# of recursive calls: 2289
+Accuracy: 150 correct out of 150 problems.
+61,404,22,44,S
+assignment of variables: [1, -22, -16, -17, 5, -2, 13, -21, 4, 9, -15, 20, -6, 3, 19, -10, 7, 11, -12]
+# of recursive calls: 2319
+Accuracy: 151 correct out of 151 problems.
+62,415,22,44,U
+assignment of variables: [22, -9, -7, 13, 21, 4, 2, 18, -19, -12, 1, -5, 3, 20, -6, 17, -10, 8, 14, -11, -16]
+# of recursive calls: 2345
+Accuracy: 152 correct out of 152 problems.
+63,355,22,44,U
+assignment of variables: [15, 21, -7, 17, -16, -14, 2, 4, -20, -19, 22, 11, 6, 12]
+# of recursive calls: 2366
+Accuracy: 153 correct out of 153 problems.
+64,284,22,44,U
+assignment of variables: [-22, -16, -17, -3, 19, -7, 5, 10]
+# of recursive calls: 2381
+Accuracy: 154 correct out of 154 problems.
+65,391,22,44,U
+assignment of variables: [17, 12, -1, 7, -15, -9, -10, 2, 19, -18, -8, -13, -22, 3, 5, 16]
+# of recursive calls: 2404
+Accuracy: 155 correct out of 155 problems.
+66,348,22,44,U
+assignment of variables: [-14, -16, 2, -5, -8, -15, -9, 7, 18, 17, 4, 10]
+# of recursive calls: 2422
+Accuracy: 156 correct out of 156 problems.
+67,459,22,44,U
+assignment of variables: [-7, 8, -13, -18, 19, -11, -9, -4, 16, -10, -3, 1, 15, -6, 21, -14, 5, 17]
+# of recursive calls: 2448
+Accuracy: 157 correct out of 157 problems.
+68,496,22,44,U
+assignment of variables: [-7, -17, -5, 18, -11, 21, -6, -15, -16, 22, -14, 20, -4, 19]
+# of recursive calls: 2474
+Accuracy: 158 correct out of 158 problems.
+69,404,22,44,U
+assignment of variables: [17, 14, -1, 21, 12, 5, 20, -6, -22, 18, -13, 15, 10, 4, 2, -11, 8, -7, -16, -19, -9]
+# of recursive calls: 2501
+Accuracy: 159 correct out of 159 problems.
+70,330,22,44,U
+assignment of variables: [-12, 8, -21, -4, -9, 17, 10, 14, -16]
+# of recursive calls: 2519
+Accuracy: 160 correct out of 160 problems.
+71,473,24,48,S
+assignment of variables: [7, -17, -13, 19, 6, -23, 18, -20, 3, -11, 9, 8, 16, -21, 4, -5, -1, 14, -12, -22, 24, 10, 15]
+# of recursive calls: 2552
+Accuracy: 161 correct out of 161 problems.
+72,367,24,48,U
+assignment of variables: [-3, -15, -24, -13, -16, 18, 1, -10, 20, -5, -22, -9, 4, 11]
+# of recursive calls: 2569
+Accuracy: 162 correct out of 162 problems.
+73,358,24,48,U
+assignment of variables: [-8, 13, -11, -9, -17, 12, 7, -1, -20, 21, 10, -3]
+# of recursive calls: 2586
+Accuracy: 163 correct out of 163 problems.
+74,477,24,48,S
+assignment of variables: [9, 13, -16, -12, 6, 4, -5, -22, -1, 2, 21, 14, 19, -20, 24, -10, 3, 8, -7, 23, -17, -11, -15, 18]
+# of recursive calls: 2614
+Accuracy: 164 correct out of 164 problems.
+75,438,24,48,U
+assignment of variables: [4, 9, 1, 3, 21, -19, 18, -14, -6, 17, -15, 2, 24, 16, -13, -10, 7, -12]
+# of recursive calls: 2640
+Accuracy: 165 correct out of 165 problems.
+76,516,24,48,U
+assignment of variables: [12, 11, -18, -5, 7, 3, -13, 8, 21, 9, -10, 15, -17, 6, 16, 20]
+# of recursive calls: 2668
+Accuracy: 166 correct out of 166 problems.
+77,391,24,48,U
+assignment of variables: [10, -11, -20, -13, -14, -23, -5, 18, 8, -9, 17, -24]
+# of recursive calls: 2685
+Accuracy: 167 correct out of 167 problems.
+78,225,24,48,U
+assignment of variables: [-13, 9, -7, -3, -4, -5, -22]
+# of recursive calls: 2694
+Accuracy: 168 correct out of 168 problems.
+79,446,24,48,U
+assignment of variables: [-12, -4, 23, 1, -20, 19, -15, -8, 22, 21, 16, 2, 6, -9, 10, -24, 13]
+# of recursive calls: 2724
+Accuracy: 169 correct out of 169 problems.
+80,398,24,48,S
+assignment of variables: [9, -6, 3, 5, 10, 11, -17, 2, -23, -21, 15, 7, 20, 24, 14, 18, 12, 19, -8, 13, -4, 1]
+# of recursive calls: 2747
+Accuracy: 170 correct out of 170 problems.
+111,923,16,80,U
+assignment of variables: [-7, 16, 13, 4, -6, -14]
+# of recursive calls: 2781
+Accuracy: 171 correct out of 171 problems.
+112,328,16,80,S
+assignment of variables: [16, -11, 6, 3, 10, 7, 12, 2, -5, 14, 15, -9, -13, -1, 8, 4]
+# of recursive calls: 2798
+Accuracy: 172 correct out of 172 problems.
+113,1995,16,80,U
+assignment of variables: [-1, -12, -14, -16, 9, 15, -11, -3, -8]
+# of recursive calls: 2881
+Accuracy: 173 correct out of 173 problems.
+114,2144,16,80,U
+assignment of variables: [-8, -10, -15, -13, -3, -4, 12, 11, 9, -14, 1, 16, 7, 6]
+# of recursive calls: 3004
+Accuracy: 174 correct out of 174 problems.
+115,2214,16,80,U
+assignment of variables: [-10, -16, -2, -6, 15, -4, -5]
+# of recursive calls: 3098
+Accuracy: 175 correct out of 175 problems.
+116,1567,16,80,U
+assignment of variables: [-10, -8, 16, 1, 4, -2, 12]
+# of recursive calls: 3159
+Accuracy: 176 correct out of 176 problems.
+117,1679,16,80,U
+assignment of variables: [-8, -16, -14, -7, -10, -6, -4, -5, 2, -9, 1]
+# of recursive calls: 3246
+Accuracy: 177 correct out of 177 problems.
+118,1228,16,80,U
+assignment of variables: [-6, -4, 11, -14, 12, 15, 10]
+# of recursive calls: 3293
+Accuracy: 178 correct out of 178 problems.
+119,2090,16,80,U
+assignment of variables: [-10, -8, 7, -1, -9, -2]
+# of recursive calls: 3382
+Accuracy: 179 correct out of 179 problems.
+120,1115,16,80,S
+assignment of variables: [-8, 11, 16, 7, 12, 4, -6, -1, 13, -14, -3, -2, 15, 10, -5, -9]
+# of recursive calls: 3432
+Accuracy: 180 correct out of 180 problems.
+181,617,12,120,S
+assignment of variables: [10, 1, 4, 5, -11, -8, -7, 12, -3, 2, 6, -9]
+# of recursive calls: 3452
+Accuracy: 181 correct out of 181 problems.
+182,2015,12,120,S
+assignment of variables: [-8, 4, -6, -5, -7, 12, 9, -1, 10, 3, 2, 11]
+# of recursive calls: 3534
+Accuracy: 182 correct out of 182 problems.
+183,456,12,120,S
+assignment of variables: [2, 12, -10, 6, -4, -9, 1, 3, -8, -5, 7, -11]
+# of recursive calls: 3547
+Accuracy: 183 correct out of 183 problems.
+184,3186,12,120,U
+assignment of variables: [-5, -8, -2, -3, -6, 1, 12, -10, -9, -4]
+# of recursive calls: 3681
+Accuracy: 184 correct out of 184 problems.
+185,521,12,120,S
+assignment of variables: [2, 3, 10, -11, 12, -5, -6, 8, -9, -4, 7]
+# of recursive calls: 3697
+Accuracy: 185 correct out of 185 problems.
+186,484,12,120,S
+assignment of variables: [6, 1, 7, 11, -12, -3, 4, 9, 5, 10, 8, 2]
+# of recursive calls: 3710
+Accuracy: 186 correct out of 186 problems.
+187,1502,12,120,U
+assignment of variables: [-6, -10, -5, 7, -3, 9, -8]
+# of recursive calls: 3759
+Accuracy: 187 correct out of 187 problems.
+188,2705,12,120,U
+assignment of variables: [-12, -7, -6, -5, 3, 9, 2]
+# of recursive calls: 3867
+Accuracy: 188 correct out of 188 problems.
+189,2683,12,120,U
+assignment of variables: [-8, -3, -11, -6, 10, -5, 2, 12]
+# of recursive calls: 3974
+Accuracy: 189 correct out of 189 problems.
+190,3094,12,120,U
+assignment of variables: [-2, -12, -7, -6, -11, -3]
+# of recursive calls: 4091
+Accuracy: 190 correct out of 190 problems.
+261,562,12,120,S
+assignment of variables: [7, 4, 11, 3, 1, -10, 5, -9, 8, -2, -6, 12]
+# of recursive calls: 4115
+Accuracy: 191 correct out of 191 problems.
+262,689,12,120,S
+assignment of variables: [6, 7, 3, 10, -1, -4, 9, -2, 5, -11, -12, -8]
+# of recursive calls: 4137
+Accuracy: 192 correct out of 192 problems.
+263,716,12,120,S
+assignment of variables: [12, 1, 4, -11, 5, 7, 8, -9, 2, -10, -3, 6]
+# of recursive calls: 4156
+Accuracy: 193 correct out of 193 problems.
+264,635,12,120,S
+assignment of variables: [10, 1, 5, 12, 9, -3, 6, 8, 4, 2, 11, -7]
+# of recursive calls: 4172
+Accuracy: 194 correct out of 194 problems.
+265,540,12,120,S
+assignment of variables: [7, 8, 6, -9, 2, -12, -5, 3, 10, -1, 11, -4]
+# of recursive calls: 4190
+Accuracy: 195 correct out of 195 problems.
+266,584,12,120,S
+assignment of variables: [2, 8, 9, 3, -10, 4, 11, -6, -7, 12, -5, 1]
+# of recursive calls: 4208
+Accuracy: 196 correct out of 196 problems.
+267,678,12,120,S
+assignment of variables: [4, 8, 10, -9, -6, 2, 5, -11, 7, 3, 1, -12]
+# of recursive calls: 4239
+Accuracy: 197 correct out of 197 problems.
+268,577,12,120,S
+assignment of variables: [9, 12, 6, 4, 5, 2, 10, -1, -8, -7, -3, -11]
+# of recursive calls: 4254
+Accuracy: 198 correct out of 198 problems.
+269,644,12,120,S
+assignment of variables: [1, 2, 6, 8, 5, 3, -12, -4, 10, -9, -7, -11]
+# of recursive calls: 4273
+Accuracy: 199 correct out of 199 problems.
+270,815,12,120,S
+assignment of variables: [3, 5, 1, 7, -4, 2, 6, 11, -8, 12, 10]
+# of recursive calls: 4302
+Accuracy: 200 correct out of 200 problems.
+341,542,12,120,S
+assignment of variables: [10, 6, 2, 8, 4, 3, -7, 11, 12, -5, -1]
+# of recursive calls: 4317
+Accuracy: 201 correct out of 201 problems.
+342,525,12,120,S
+assignment of variables: [2, 10, 8, 11, 9, 4, 6, -12, -3, -1, -5, 7]
+# of recursive calls: 4331
+Accuracy: 202 correct out of 202 problems.
+343,550,12,120,S
+assignment of variables: [4, 8, 5, 2, 12, 3, 1, 11, -7, 9, 6]
+# of recursive calls: 4343
+Accuracy: 203 correct out of 203 problems.
+344,599,12,120,S
+assignment of variables: [7, 6, 5, 9, 8, 2, 1, 3, 10, -11, -12, 4]
+# of recursive calls: 4358
+Accuracy: 204 correct out of 204 problems.
+345,680,12,120,S
+assignment of variables: [5, 1, 12, 4, 9, 7, 8, -3, -10, 2, 6, 11]
+# of recursive calls: 4376
+Accuracy: 205 correct out of 205 problems.
+346,654,12,120,S
+assignment of variables: [9, 2, 7, 6, 10, 4, -3, -12, -5, -8, -1, 11]
+# of recursive calls: 4392
+Accuracy: 206 correct out of 206 problems.
+347,603,12,120,S
+assignment of variables: [6, 1, 8, 7, 11, 10, 4, 9, 3, 5, -12, 2]
+# of recursive calls: 4405
+Accuracy: 207 correct out of 207 problems.
+348,541,12,120,S
+assignment of variables: [6, 4, 8, 11, 9, 12, 5, 2, 3, -1, 10, 7]
+# of recursive calls: 4418
+Accuracy: 208 correct out of 208 problems.
+349,496,12,120,S
+assignment of variables: [7, 1, 8, 2, 4, 10, 5, -6, 3, -12, 9, 11]
+# of recursive calls: 4431
+Accuracy: 209 correct out of 209 problems.
+350,531,12,120,S
+assignment of variables: [6, 7, 8, 1, 12, 9, 5, 10, -11, 2, 4, 3]
+# of recursive calls: 4445
+Accuracy: 210 correct out of 210 problems.
+121,1476,18,90,U
+assignment of variables: [-3, -11, 2, -5, 14, -17, 18, -8, -10, 13, 6, -16, -4, -1, 15]
+# of recursive calls: 4501
+Accuracy: 211 correct out of 211 problems.
+122,1022,18,90,U
+assignment of variables: [-17, -15, 6, 11, -12, -8, 13, 1, 18, -16, 10]
+# of recursive calls: 4532
+Accuracy: 212 correct out of 212 problems.
+123,1161,18,90,U
+assignment of variables: [-2, -3, -9, -10, 1, 18]
+# of recursive calls: 4568
+Accuracy: 213 correct out of 213 problems.
+124,3041,18,90,U
+assignment of variables: [-9, -12, -14, -8, 1, 16, -10, -11, 3, 13, 2, -4, 17]
+# of recursive calls: 4678
+Accuracy: 214 correct out of 214 problems.
+125,2723,18,90,U
+assignment of variables: [-8, -10, -16, -1, -5, -4, -11, -18, 14]
+# of recursive calls: 4780
+Accuracy: 215 correct out of 215 problems.
+126,1503,18,90,S
+assignment of variables: [2, 5, -18, 17, -12, 3, -4, -15, -16, 7, 13, -1, 14, 10, 6, 8, -11, 9]
+# of recursive calls: 4858
+Accuracy: 216 correct out of 216 problems.
+127,1917,18,90,S
+assignment of variables: [-2, 14, -13, 4, 3, 12, -16, -9, -6, -17, -7, 5, -15, -11, 18, -10, 8]
+# of recursive calls: 4931
+Accuracy: 217 correct out of 217 problems.
+128,409,18,90,S
+assignment of variables: [8, 14, -11, 13, 1, 18, 5, 7, -6, -9, 16, 4, -10, 17, -3, -12, -15]
+# of recursive calls: 4949
+Accuracy: 218 correct out of 218 problems.
+129,1627,18,90,U
+assignment of variables: [-17, 2, -8, -9, -11, -6, 12, 4, -15, -1, 3, 14, 5, -7]
+# of recursive calls: 5022
+Accuracy: 219 correct out of 219 problems.
+130,1332,18,90,S
+assignment of variables: [17, -12, -1, -16, -13, 7, 9, -14, 8, 15, 5, 2, 3, -18, -10, 11, -6, 4]
+# of recursive calls: 5076
+Accuracy: 220 correct out of 220 problems.
+131,707,20,100,S
+assignment of variables: [11, 1, -6, -10, 8, -19, -3, 18, -13, -14, 20, 16, 9, 12, -15, 5, -7, 17, 2, -4]
+# of recursive calls: 5101
+Accuracy: 221 correct out of 221 problems.
+132,4142,20,100,U
+assignment of variables: [-14, -10, -9, -8, -20, -4, -7, -18]
+# of recursive calls: 5230
+Accuracy: 222 correct out of 222 problems.
+133,1554,20,100,S
+assignment of variables: [16, 18, -3, 6, 9, -12, 11, 13, 10, 5, 14, -17, 8, -2, -15, -20, -19, 4, -7, 1]
+# of recursive calls: 5280
+Accuracy: 223 correct out of 223 problems.
+134,3275,20,100,U
+assignment of variables: [-16, -4, -8]
+# of recursive calls: 5387
+Accuracy: 224 correct out of 224 problems.
+135,2946,20,100,S
+assignment of variables: [-12, -16, 11, 4, 10, -19, 6, 9, 2, -14, 8, -7, 1, 17, -3, -13, 5, 20, 18, -15]
+# of recursive calls: 5490
+Accuracy: 225 correct out of 225 problems.
+136,3183,20,100,U
+assignment of variables: [-19, -17, 2, -7, -14, -8, -15, 9, 16, 18, 13]
+# of recursive calls: 5603
+Accuracy: 226 correct out of 226 problems.
+137,4924,20,100,U
+assignment of variables: [-3, -16, -1, -2, 17, -12, 13, -10]
+# of recursive calls: 5743
+Accuracy: 227 correct out of 227 problems.
+138,1976,20,100,S
+assignment of variables: [-7, 15, -5, 20, 16, 18, 8, 9, 19, -10, 14, -3, 2, 11, 13, 4, -12, 1, 17, 6]
+# of recursive calls: 5808
+Accuracy: 228 correct out of 228 problems.
+139,2087,20,100,U
+assignment of variables: [-1, -6, -18, -17, -16, -9, 8, -11, 10, 3, 13]
+# of recursive calls: 5888
+Accuracy: 229 correct out of 229 problems.
+140,4398,20,100,U
+assignment of variables: [-4, -8, -10, 12, -17, 2]
+# of recursive calls: 6057
+Accuracy: 230 correct out of 230 problems.
+141,633,22,110,S
+assignment of variables: [17, 11, -5, -21, 18, 2, -4, 22, 9, -13, 10, -8, 6, -12, 1, 3, 19, -16, -7, -15, -14]
+# of recursive calls: 6080
+Accuracy: 231 correct out of 231 problems.
+142,2550,22,110,S
+assignment of variables: [19, -12, -2, -20, 4, -16, -9, -17, 6, 8, -5, 1, 14, 22, -7, 10, -3, 21, 18, -15, 13, 11]
+# of recursive calls: 6164
+Accuracy: 232 correct out of 232 problems.
+143,2565,22,110,U
+assignment of variables: [-6, -19, 5, -20, 2]
+# of recursive calls: 6235
+Accuracy: 233 correct out of 233 problems.
+144,1805,22,110,U
+assignment of variables: [-15, -8, 22, -6]
+# of recursive calls: 6276
+Accuracy: 234 correct out of 234 problems.
+145,2132,22,110,U
+assignment of variables: [-14, -21, 11, 9, -19, -17, 7, 20, -15]
+# of recursive calls: 6335
+Accuracy: 235 correct out of 235 problems.
+146,5174,22,110,U
+assignment of variables: [-5, -19, -3, -2, 20, 18, -8, -16, 21, -9, -22, 11]
+# of recursive calls: 6481
+Accuracy: 236 correct out of 236 problems.
+147,3403,22,110,U
+assignment of variables: [-20, -6, -14, -1, -22, -12, 4, -2, -21, -16, 15, 9, 10, 18, -13, -5, -11]
+# of recursive calls: 6599
+Accuracy: 237 correct out of 237 problems.
+148,2734,22,110,U
+assignment of variables: [-13, -9, -14, -5, 19, 2, 7, -3, -20, -6, 21]
+# of recursive calls: 6694
+Accuracy: 238 correct out of 238 problems.
+149,2386,22,110,S
+assignment of variables: [-3, 2, 17, 6, -13, 10, -22, -8, 5, 16, -20, 1, -7, -21, 14, 18, -15, 11, -4, -9, -12, -19]
+# of recursive calls: 6765
+Accuracy: 239 correct out of 239 problems.
+150,701,22,110,S
+assignment of variables: [11, 5, -2, 14, 12, 6, -19, 16, 4, 18, -15, -1, -7, 13, -17, 3, -21, -9, 10, 20, 8]
+# of recursive calls: 6787
+Accuracy: 240 correct out of 240 problems.
+191,1817,16,160,S
+assignment of variables: [5, -12, 8, 7, 3, 9, 13, 15, 14, 10, 4, -11, -16, 1, -2, -6]
+# of recursive calls: 6827
+Accuracy: 241 correct out of 241 problems.
+192,9851,16,160,U
+assignment of variables: [-12, -3, -10, 2, 11, -15, 7, 16, -6]
+# of recursive calls: 7138
+Accuracy: 242 correct out of 242 problems.
+193,7945,16,160,U
+assignment of variables: [-15, -7, -6, -14, -3]
+# of recursive calls: 7341
+Accuracy: 243 correct out of 243 problems.
+194,1164,16,160,S
+assignment of variables: [3, 12, 14, 13, -11, -7, -4, -9, -8, -1, 2, 6, 10, -15, 5, -16]
+# of recursive calls: 7375
+Accuracy: 244 correct out of 244 problems.
+195,5376,16,160,S
+assignment of variables: [-13, 11, 4, 12, 2, -9, -3, 1, -10, -8, 14, 7, 6, 5, 15, 16]
+# of recursive calls: 7539
+Accuracy: 245 correct out of 245 problems.
+196,10780,16,160,U
+assignment of variables: [-1, -4, -9, -5, -16, -3, -12, 6, -11, 2, -14, -13]
+# of recursive calls: 7798
+Accuracy: 246 correct out of 246 problems.
+197,7722,16,160,U
+assignment of variables: [-1, -15, -14, -10, -4, -8, -16, 5, -6, -7, 3, 2, 9, 13]
+# of recursive calls: 8001
+Accuracy: 247 correct out of 247 problems.
+198,10751,16,160,U
+assignment of variables: [-2, -4, -15, -14, -5, -8, 16, -10, 6, -9, -3, 7]
+# of recursive calls: 8310
+Accuracy: 248 correct out of 248 problems.
+199,1182,16,160,S
+assignment of variables: [12, 8, 5, 7, -6, 2, 11, 13, 4, 10, -1, 15, -14, -9, -16, -3]
+# of recursive calls: 8337
+Accuracy: 249 correct out of 249 problems.
+200,7402,16,160,S
+assignment of variables: [-2, -1, -9, -15, -10, -12, 13, 8, -14, 5, -11, -7, -6, -16, 3]
+# of recursive calls: 8533
+Accuracy: 250 correct out of 250 problems.
+271,1174,16,160,S
+assignment of variables: [16, 14, 12, 7, 2, 5, -11, 3, -10, 9, 4, 8, 13, -15, 1]
+# of recursive calls: 8562
+Accuracy: 251 correct out of 251 problems.
+272,1583,16,160,S
+assignment of variables: [16, 13, 8, 12, 5, 3, -1, -15, -14, -11, 7, 6, -10, -4, 2, 9]
+# of recursive calls: 8605
+Accuracy: 252 correct out of 252 problems.
+273,1332,16,160,S
+assignment of variables: [7, 10, 5, 6, 3, -13, -8, 1, 14, -15, -2, 4, 11, 12, 16]
+# of recursive calls: 8651
+Accuracy: 253 correct out of 253 problems.
+274,1028,16,160,S
+assignment of variables: [5, 1, 2, 3, 4, 12, 9, -7, -13, 10, -16, 8, 15, 6, 14, -11]
+# of recursive calls: 8673
+Accuracy: 254 correct out of 254 problems.
+275,2226,16,160,S
+assignment of variables: [4, 15, 12, 7, -6, 3, -14, 10, -5, 9, 13, -8, 11, 2, 1, 16]
+# of recursive calls: 8754
+Accuracy: 255 correct out of 255 problems.
+276,1602,16,160,S
+assignment of variables: [12, 7, 9, 11, 14, -1, 16, -3, -8, -13, 5, -4, -15, 2, 10, 6]
+# of recursive calls: 8828
+Accuracy: 256 correct out of 256 problems.
+277,1878,16,160,S
+assignment of variables: [3, 7, 6, 8, -10, -5, 11, 1, 16, 13, -2, 15, -4, 9, -12, -14]
+# of recursive calls: 8894
+Accuracy: 257 correct out of 257 problems.
+278,1055,16,160,S
+assignment of variables: [10, 9, 11, 6, 15, 3, 8, 16, 4, 1, 7, 2, -13, -12, 5, 14]
+# of recursive calls: 8911
+Accuracy: 258 correct out of 258 problems.
+279,1018,16,160,S
+assignment of variables: [14, 7, 6, 10, 15, 4, 5, -16, 3, 2, 13, -11, 9, 12, -8]
+# of recursive calls: 8935
+Accuracy: 259 correct out of 259 problems.
+280,860,16,160,S
+assignment of variables: [10, 1, 4, 3, 8, 16, 14, 13, 2, -7, 11, 9, -6, -15, 12, -5]
+# of recursive calls: 8954
+Accuracy: 260 correct out of 260 problems.
+351,1071,16,160,S
+assignment of variables: [12, 5, 11, 7, 3, 16, 13, 15, 2, 10, 4, 14, -6, -8, 9]
+# of recursive calls: 8970
+Accuracy: 261 correct out of 261 problems.
+352,915,16,160,S
+assignment of variables: [10, 3, 4, 12, 5, 14, 2, 6, 15, 7, 16, 1, -9, 8]
+# of recursive calls: 8985
+Accuracy: 262 correct out of 262 problems.
+353,1008,16,160,S
+assignment of variables: [4, 11, 10, 12, 14, 3, 9, 7, -8, 15, 13, -2, -5, -16]
+# of recursive calls: 9000
+Accuracy: 263 correct out of 263 problems.
+354,1024,16,160,S
+assignment of variables: [7, 3, 5, 4, 10, 2, 14, 12, 8, 11, -6, 16, 1, 13, 9]
+# of recursive calls: 9020
+Accuracy: 264 correct out of 264 problems.
+355,962,16,160,S
+assignment of variables: [6, 13, 5, 2, 10, 4, 11, 14, -3, 12, -1, 15, -8, -9, -7]
+# of recursive calls: 9037
+Accuracy: 265 correct out of 265 problems.
+356,914,16,160,S
+assignment of variables: [2, 10, 3, 11, 16, 12, 15, 7, -5, 8, 1, 9, 6, 13]
+# of recursive calls: 9052
+Accuracy: 266 correct out of 266 problems.
+357,927,16,160,S
+assignment of variables: [6, 12, 13, 14, 5, -2, 8, 1, 11, 3, 16, 7, 10, -4, -15, 9]
+# of recursive calls: 9070
+Accuracy: 267 correct out of 267 problems.
+358,1044,16,160,S
+assignment of variables: [8, 15, 12, 9, 1, 16, 14, 7, 2, 6, -10, 13, -11, -4, -5]
+# of recursive calls: 9089
+Accuracy: 268 correct out of 268 problems.
+359,896,16,160,S
+assignment of variables: [3, 11, 2, 9, 16, 1, 14, 15, 8, 5, 7, 13, -12, -4, 10]
+# of recursive calls: 9105
+Accuracy: 269 correct out of 269 problems.
+360,890,16,160,S
+assignment of variables: [8, 15, 13, 3, 14, 1, 5, 16, 10, 6, -4, 7, 9]
+# of recursive calls: 9119
+Accuracy: 270 correct out of 270 problems.
+151,2578,24,120,U
+assignment of variables: [-23, 3, 15, -18, 8, 6, -24, -1, 21, -4, 19]
+# of recursive calls: 9178
+Accuracy: 271 correct out of 271 problems.
+152,14065,24,120,U
+assignment of variables: [18, -13, -4, 1, -15, -20]
+# of recursive calls: 9290
+Accuracy: 272 correct out of 272 problems.
+153,5954,24,120,U
+assignment of variables: [-16, -19, -14, -21, -7, -10, 23, -12, 11, 15, -6, 20, -5, 9]
+# of recursive calls: 9459
+Accuracy: 273 correct out of 273 problems.
+154,4934,24,120,U
+assignment of variables: [-7, -16, -15, -13, 17, -2, -21, -22, 20, 11, -24, 18]
+# of recursive calls: 9587
+Accuracy: 274 correct out of 274 problems.
+155,6877,24,120,U
+assignment of variables: [-19, -22, 18, -24, 21, 7, -3, 13, -16, 4, 10, -12, -9, -8]
+# of recursive calls: 9815
+Accuracy: 275 correct out of 275 problems.
+156,4079,24,120,U
+assignment of variables: [-16, -24, -8, 12, 22]
+# of recursive calls: 9920
+Accuracy: 276 correct out of 276 problems.
+157,4873,24,120,U
+assignment of variables: [-20, -8, -12, -5, -6, 1, -3, -2, -11, -10, 13, -7]
+# of recursive calls: 10043
+Accuracy: 277 correct out of 277 problems.
+158,7335,24,120,U
+assignment of variables: [-22, -16, -21, -1, -2, -3, -14, 18, -6, -4, -19, 12, 10, -17, -5]
+# of recursive calls: 10238
+Accuracy: 278 correct out of 278 problems.
+159,4817,24,120,U
+assignment of variables: [-13, -9, -8, 22, 24, -6, 4, 2, 20]
+# of recursive calls: 10365
+Accuracy: 279 correct out of 279 problems.
+160,6564,24,120,U
+assignment of variables: [-4, -13, 5, -9, -23, -7, -15, 19, -21, -2]
+# of recursive calls: 10557
+Accuracy: 280 correct out of 280 problems.
+201,1023,18,180,S
+assignment of variables: [3, 15, 7, 2, 1, 9, 6, -4, 11, -16, -8, -14, 10, -13, -18, 5, -17, -12]
+# of recursive calls: 10576
+Accuracy: 281 correct out of 281 problems.
+202,13958,18,180,U
+assignment of variables: [-13, -14, -15, -2, -7, -9, 18]
+# of recursive calls: 10942
+Accuracy: 282 correct out of 282 problems.
+203,8765,18,180,S
+assignment of variables: [-3, 8, 9, -15, -4, 16, -14, -12, -1, 6, 17, -10, 18, -5, -11, -13, -2, 7]
+# of recursive calls: 11218
+Accuracy: 283 correct out of 283 problems.
+204,15673,18,180,U
+assignment of variables: [-13, -6, -14, -8, -5, -15, -17, 4, -9, -3, -18, 1]
+# of recursive calls: 11630
+Accuracy: 284 correct out of 284 problems.
+205,15460,18,180,U
+assignment of variables: [-14, -4, -15, -10, -18, 2, -3, -16]
+# of recursive calls: 12049
+Accuracy: 285 correct out of 285 problems.
+206,4129,18,180,S
+assignment of variables: [1, 10, -5, 3, -12, -18, -6, -4, -16, -2, -14, 15, 17, -13, -8, 9, 7, 11]
+# of recursive calls: 12174
+Accuracy: 286 correct out of 286 problems.
+207,14606,18,180,U
+assignment of variables: [-17, 10, -2, -12]
+# of recursive calls: 12579
+Accuracy: 287 correct out of 287 problems.
+208,2702,18,180,S
+assignment of variables: [9, -4, 2, -14, 16, 13, -18, -3, -7, -11, 10, 6, -12, -17, -8, 5, 15, 1]
+# of recursive calls: 12669
+Accuracy: 288 correct out of 288 problems.
+209,16405,18,180,U
+assignment of variables: [-18, -6, -14, -11, -5, 8, 2]
+# of recursive calls: 13007
+Accuracy: 289 correct out of 289 problems.
+210,12750,18,180,U
+assignment of variables: [-13, -5, -14, 11, -3, -2, -17, 15, 8, 1]
+# of recursive calls: 13290
+Accuracy: 290 correct out of 290 problems.
+281,1573,18,180,S
+assignment of variables: [1, 17, 3, 2, 5, 7, 13, 15, -14, 11, 4, 9, 16, 18, -12, -6, -8, 10]
+# of recursive calls: 13329
+Accuracy: 291 correct out of 291 problems.
+282,1308,18,180,S
+assignment of variables: [2, 16, 10, 17, 8, 9, 6, 4, 5, -18, 11, 13, 1, -3, 7, 14, 15]
+# of recursive calls: 13349
+Accuracy: 292 correct out of 292 problems.
+283,1324,18,180,S
+assignment of variables: [1, 17, 14, 5, 4, 11, 3, 9, 7, -6, 15, 12, -10, -13, 16, -8, -2]
+# of recursive calls: 13369
+Accuracy: 293 correct out of 293 problems.
+284,1508,18,180,S
+assignment of variables: [2, 6, 11, 5, 13, 8, 16, -1, 14, 4, 17, 10, -3, -18, 7, -12, 9, 15]
+# of recursive calls: 13402
+Accuracy: 294 correct out of 294 problems.
+285,1294,18,180,S
+assignment of variables: [10, 16, 6, 8, 2, 3, 17, 14, 12, -9, 7, 18, 1, 11, -5, 15, 4, -13]
+# of recursive calls: 13421
+Accuracy: 295 correct out of 295 problems.
+286,1528,18,180,S
+assignment of variables: [16, 11, 3, 5, 1, 12, 15, 6, -4, 8, -2, -13, 14, 9, 17, 10, -18, -7]
+# of recursive calls: 13463
+Accuracy: 296 correct out of 296 problems.
+287,1292,18,180,S
+assignment of variables: [18, 11, 6, 15, 2, 4, 17, 13, -9, 16, 1, 12, 5, -8, -10, -3, 7, -14]
+# of recursive calls: 13484
+Accuracy: 297 correct out of 297 problems.
+288,1390,18,180,S
+assignment of variables: [10, 16, 18, 4, 7, 13, 2, 11, 17, -8, 5, 14, 3, 12, 9, -6, 1, -15]
+# of recursive calls: 13506
+Accuracy: 298 correct out of 298 problems.
+289,1280,18,180,S
+assignment of variables: [9, 3, 16, 14, -2, 1, 18, 17, 6, -11, -5, -8, -15, -13, 4, -10, -7, 12]
+# of recursive calls: 13527
+Accuracy: 299 correct out of 299 problems.
+290,2031,18,180,S
+assignment of variables: [18, 4, 17, 3, 14, 12, -7, 5, -11, -9, 6, -16, -2, -10, 8, 15, -1, 13]
+# of recursive calls: 13602
+Accuracy: 300 correct out of 300 problems.
+361,1303,18,180,S
+assignment of variables: [5, 1, 10, 9, 4, 2, 12, 16, 18, 13, 7, 11, 8, 15, 14, 6, -3, -17]
+# of recursive calls: 13621
+Accuracy: 301 correct out of 301 problems.
+362,1349,18,180,S
+assignment of variables: [17, 14, 7, 2, 18, 9, 5, 8, 3, 12, 15, 11, 6, 16, 13, -10, 4]
+# of recursive calls: 13639
+Accuracy: 302 correct out of 302 problems.
+363,1243,18,180,S
+assignment of variables: [6, 18, 10, 3, 12, 2, 7, 11, -5, -17, -13, -1, 9, 14, 15, 16, 8, -4]
+# of recursive calls: 13659
+Accuracy: 303 correct out of 303 problems.
+364,1283,18,180,S
+assignment of variables: [1, 16, 11, 5, -6, 9, 4, 2, 13, 7, 3, -14, -18, -15, 8, -17, 10]
+# of recursive calls: 13683
+Accuracy: 304 correct out of 304 problems.
+365,1385,18,180,S
+assignment of variables: [10, 17, 1, 12, 9, 8, 5, 4, 7, 18, 13, -6, 11, -3, 14, 15, 16, 2]
+# of recursive calls: 13704
+Accuracy: 305 correct out of 305 problems.
+366,1225,18,180,S
+assignment of variables: [3, 15, 9, 5, -17, 6, 14, 8, 11, -18, 7, 1, 12, 13, 10, 2, -4]
+# of recursive calls: 13722
+Accuracy: 306 correct out of 306 problems.
+367,1289,18,180,S
+assignment of variables: [2, 1, 18, 3, 5, 9, 14, 15, 13, 4, 17, 12, 7, -10, 16, -11, -8]
+# of recursive calls: 13742
+Accuracy: 307 correct out of 307 problems.
+368,1297,18,180,S
+assignment of variables: [16, 2, 4, 14, 15, 8, 17, 9, 18, 1, 12, -13, 5, 7, -10, -11, -3]
+# of recursive calls: 13760
+Accuracy: 308 correct out of 308 problems.
+369,1312,18,180,S
+assignment of variables: [12, 13, 11, 2, 9, 15, 8, 7, 4, -16, 6, 17, -3, 18, 5, 10, 1, 14]
+# of recursive calls: 13779
+Accuracy: 309 correct out of 309 problems.
+370,1214,18,180,S
+assignment of variables: [4, 5, 3, 18, 16, 8, 6, 7, 10, 1, 15, 9, 12, 11, 14, 17]
+# of recursive calls: 13796
+Accuracy: 310 correct out of 310 problems.
+211,15396,20,200,S
+assignment of variables: [19, -14, -20, 17, 13, -16, 4, 11, -1, 6, 12, -9, -5, 10, -8, 18, 3, -7, 15, 2]
+# of recursive calls: 14166
+Accuracy: 311 correct out of 311 problems.
+212,23464,20,200,U
+assignment of variables: [-13, -10, -18, -2, -7, -14, -8, 20, 19, 9, -6, 17]
+# of recursive calls: 14754
+Accuracy: 312 correct out of 312 problems.
+213,3828,20,200,S
+assignment of variables: [5, 6, 15, -19, -4, -11, -18, 9, -20, 10, -17, -7, -2, -1, 14, -12, -8, -16, 13, -3]
+# of recursive calls: 14850
+Accuracy: 313 correct out of 313 problems.
+214,14332,20,200,S
+assignment of variables: [-17, -14, -3, 18, 8, -5, -12, 19, -6, 13, -9, 11, -10, -1, -2, -4, -20, -16, 15, 7]
+# of recursive calls: 15183
+Accuracy: 314 correct out of 314 problems.
+215,22090,20,200,U
+assignment of variables: [-2, -4, -8, 19, -14, -16, -7, -17, -6, -11, -15, -18, 13]
+# of recursive calls: 15658
+Accuracy: 315 correct out of 315 problems.
+216,24243,20,200,U
+assignment of variables: [-7, -9, -18, -5, 14, -15, 4, 12]
+# of recursive calls: 16189
+Accuracy: 316 correct out of 316 problems.
+217,5012,20,200,S
+assignment of variables: [10, 6, 9, -2, -14, -20, -12, 13, -15, -1, 16, -17, 11, -4, -7, -8, -3, -19, -5, 18]
+# of recursive calls: 16309
+Accuracy: 317 correct out of 317 problems.
+218,46080,20,200,U
+assignment of variables: [-10, -16, -5, -3, -9, 2, -11, 4, 17, 6, 19, -14, -12, 15, -20, 13]
+# of recursive calls: 17127
+Accuracy: 318 correct out of 318 problems.
+219,8532,20,200,S
+assignment of variables: [11, -16, 17, 12, 19, 8, -2, -1, 5, -7, -18, -10, 3, 15, -4, 13, -14, -6, -9]
+# of recursive calls: 17376
+Accuracy: 319 correct out of 319 problems.
+220,21139,20,200,U
+assignment of variables: [-8, -11, -1, -3, -6, -12, -15, -16, -10, -9, 18, -19, 5, 4, 13]
+# of recursive calls: 17833
+Accuracy: 320 correct out of 320 problems.
+291,1985,20,200,S
+assignment of variables: [16, 13, 11, 15, 8, 6, 20, 12, -18, -19, 2, -7, 1, 4, -5, 14, 3, -10, -9]
+# of recursive calls: 17881
+Accuracy: 321 correct out of 321 problems.
+292,2131,20,200,S
+assignment of variables: [5, 4, 19, 18, 20, 16, 10, -13, 3, 2, -6, -8, 12, -14, 9, 17, 15, 11, -1]
+# of recursive calls: 17941
+Accuracy: 322 correct out of 322 problems.
+293,1341,20,200,S
+assignment of variables: [16, 4, 2, 7, 3, -5, 1, 13, 17, 6, 12, 19, 8, 20, 18, 9, 10, -11, -14, 15]
+# of recursive calls: 17962
+Accuracy: 323 correct out of 323 problems.
+294,1749,20,200,S
+assignment of variables: [6, 16, 3, 10, 20, 12, 13, -2, -15, 1, -9, 11, 7, -17, 4, -18, -5, -14, 8, -19]
+# of recursive calls: 17992
+Accuracy: 324 correct out of 324 problems.
+295,1477,20,200,S
+assignment of variables: [10, 1, 17, 11, 8, 15, 16, 7, 4, -9, -18, 6, 14, 2, -20, -19, -12, -3, -5, 13]
+# of recursive calls: 18014
+Accuracy: 325 correct out of 325 problems.
+296,2722,20,200,S
+assignment of variables: [3, 6, 1, 8, 20, 4, 13, -10, -17, 11, 16, -2, -5, 14, 19, 18, -15, -7, -9, -12]
+# of recursive calls: 18090
+Accuracy: 326 correct out of 326 problems.
+297,1585,20,200,S
+assignment of variables: [17, 15, 18, 6, 7, -2, 13, 12, 5, -3, -20, 9, -1, -11, 4, 19, 8, -10, 14, 16]
+# of recursive calls: 18128
+Accuracy: 327 correct out of 327 problems.
+298,2198,20,200,S
+assignment of variables: [7, 20, 11, 9, 1, 5, 17, -13, 3, -12, 18, 15, -10, 4, 2, 8, -16, 19, 14, 6]
+# of recursive calls: 18185
+Accuracy: 328 correct out of 328 problems.
+299,3225,20,200,S
+assignment of variables: [12, 1, 16, 4, 13, 8, 6, -20, 9, 18, -2, 19, -14, -3, -11, -17, -15, 5, 7]
+# of recursive calls: 18296
+Accuracy: 329 correct out of 329 problems.
+300,2006,20,200,S
+assignment of variables: [20, 6, 14, 3, -2, 5, 4, -18, -15, -13, 8, -12, 11, -9, 1, 19, -7, 10, -17]
+# of recursive calls: 18357
+Accuracy: 330 correct out of 330 problems.
+371,1560,20,200,S
+assignment of variables: [10, 19, 4, 7, 8, 3, 16, -9, 13, 15, 17, 2, 6, 5, 14, 18, -11, 20]
+# of recursive calls: 18376
+Accuracy: 331 correct out of 331 problems.
+372,1468,20,200,S
+assignment of variables: [4, 19, 12, 13, 10, 3, 15, 11, 16, 17, -20, 6, -1, 9, -2, 18, -5, -14, 8]
+# of recursive calls: 18396
+Accuracy: 332 correct out of 332 problems.
+373,1662,20,200,S
+assignment of variables: [2, 4, 8, 12, 9, 1, 5, 15, 13, 19, 18, 6, 16, 10, 11, -20, 3, 14, 17]
+# of recursive calls: 18416
+Accuracy: 333 correct out of 333 problems.
+374,1727,20,200,S
+assignment of variables: [11, 17, 5, 16, 12, 2, 1, 6, 14, 4, 10, -15, -18, 3, 9, -19, 20, 7, 8]
+# of recursive calls: 18436
+Accuracy: 334 correct out of 334 problems.
+375,1709,20,200,S
+assignment of variables: [8, 6, 5, 7, 14, 3, 12, 9, 1, 16, 11, 19, 15, 20, 17, 2, -18, -10, -13]
+# of recursive calls: 18456
+Accuracy: 335 correct out of 335 problems.
+376,1839,20,200,S
+assignment of variables: [13, 6, 12, 8, 1, 9, 20, 14, -2, 3, 11, 18, 16, 17, -7, -10, -4, -15, 19]
+# of recursive calls: 18476
+Accuracy: 336 correct out of 336 problems.
+377,1697,20,200,S
+assignment of variables: [8, 2, 11, 15, 9, 17, 3, 16, 12, 1, -6, 4, 13, 20, -10, 18, 5, -7, 14, 19]
+# of recursive calls: 18497
+Accuracy: 337 correct out of 337 problems.
+378,1704,20,200,S
+assignment of variables: [1, 20, 19, 3, 9, 14, 7, 11, 15, 18, 4, 10, -17, -6, 13, 2, -5, -16, 12, -8]
+# of recursive calls: 18518
+Accuracy: 338 correct out of 338 problems.
+379,1580,20,200,S
+assignment of variables: [1, 18, 19, 7, 10, 2, 13, 3, 15, -9, 4, 14, 12, 17, -11, -8, -6, -16, -5]
+# of recursive calls: 18541
+Accuracy: 339 correct out of 339 problems.
+380,1609,20,200,S
+assignment of variables: [5, 13, 20, 7, 17, 2, 19, 15, 16, 11, 10, 12, 4, 1, -8, 14, 6, -18, 3, 9]
+# of recursive calls: 18562
+Accuracy: 340 correct out of 340 problems.
+221,25863,22,220,U
+assignment of variables: [-8, -10, -3, -9, -14, -21, -22, 13, 11, 19, -12, -2, -1, 5]
+# of recursive calls: 19092
+Accuracy: 341 correct out of 341 problems.
+222,42500,22,220,U
+assignment of variables: [-4, -15, -16, -7, -22, -20, -3, -17, -2, 6, 21, 8, 18, -11, -19]
+# of recursive calls: 20022
+Accuracy: 342 correct out of 342 problems.
+223,24001,22,220,S
+assignment of variables: [-11, 15, -13, 20, 9, -1, 8, -3, -16, 12, -14, 18, 21, -17, 19, -6, -5, -4, 10, 7, 2, -22]
+# of recursive calls: 20525
+Accuracy: 343 correct out of 343 problems.
+224,33572,22,220,U
+assignment of variables: [-3, -22, -14, -7, -9, 13, 11, -19, 2, -4, -1, -17]
+# of recursive calls: 21140
+Accuracy: 344 correct out of 344 problems.
+225,6862,22,220,S
+assignment of variables: [8, 20, -7, -5, 1, 22, 18, -4, 19, -6, -10, 13, 16, -17, -9, 14, 12, 3, 21, 15, 11]
+# of recursive calls: 21274
+Accuracy: 345 correct out of 345 problems.
+226,54602,22,220,U
+assignment of variables: [-16, -18, -3, -17, -15, 22, -2, -10, -14, -7, -21, 20, -8, -19, 11]
+# of recursive calls: 22123
+Accuracy: 346 correct out of 346 problems.
+227,7436,22,220,S
+assignment of variables: [13, -4, 6, 14, -18, -3, 8, -20, -12, 5, 17, 1, 21, -22, 16, 19, -9, -11, 10, 2, -7, 15]
+# of recursive calls: 22220
+Accuracy: 347 correct out of 347 problems.
+228,63528,22,220,U
+assignment of variables: [-22, -5, -20, -19, -16, -8, -11, 3]
+# of recursive calls: 23343
+Accuracy: 348 correct out of 348 problems.
+229,13535,22,220,S
+assignment of variables: [17, 8, -18, 10, -15, -6, 3, 22, -14, 13, 19, -9, 20, 16, -11, -2, 4, 7, -5, -12, -1, 21]
+# of recursive calls: 23630
+Accuracy: 349 correct out of 349 problems.
+230,70803,22,220,U
+assignment of variables: [-6, -22, -21, -14, -20, 9, -5, -19, 8, -4, 16, -1, 12, 7, 15, -10, -13, -3, 11]
+# of recursive calls: 24719
+Accuracy: 350 correct out of 350 problems.
+301,3207,22,220,S
+assignment of variables: [13, 17, 4, 16, 20, 14, 12, 19, 11, 6, -3, -9, 10, 21, 5, 2, 8, -15, 18, 7, -1, 22]
+# of recursive calls: 24774
+Accuracy: 351 correct out of 351 problems.
+302,3181,22,220,S
+assignment of variables: [18, 11, 22, 21, 19, -17, 5, -2, 7, -8, -4, -10, -12, 1, -15, 20, 9, 14, -3, -16, -13, 6]
+# of recursive calls: 24836
+Accuracy: 352 correct out of 352 problems.
+303,3258,22,220,S
+assignment of variables: [2, 7, 19, 16, 1, 9, 12, 21, 6, -14, -20, -3, 10, -13, 4, 11, 15, -17, -22, -8, 5]
+# of recursive calls: 24899
+Accuracy: 353 correct out of 353 problems.
+304,2133,22,220,S
+assignment of variables: [5, 14, 2, 10, 6, 12, 9, 15, 13, 18, 21, 19, -11, -8, 22, -4, -16, 20, 1, 17, 3, 7]
+# of recursive calls: 24922
+Accuracy: 354 correct out of 354 problems.
+305,5569,22,220,S
+assignment of variables: [6, 19, 8, 4, 18, 5, 17, -9, 22, 13, -20, 1, 7, -14, 11, -16, 3, -2, 12, 21, -10, -15]
+# of recursive calls: 25138
+Accuracy: 355 correct out of 355 problems.
+306,1917,22,220,S
+assignment of variables: [14, 12, 22, 20, 19, 21, 8, 17, 9, 5, 7, 10, -2, 11, 16, -18, 1, 4, 13, -3]
+# of recursive calls: 25159
+Accuracy: 356 correct out of 356 problems.
+307,2554,22,220,S
+assignment of variables: [21, 19, 5, 6, 16, 9, 18, 20, -11, 3, -14, -4, -12, -1, 17, 8, 2, -10, -22, -13]
+# of recursive calls: 25213
+Accuracy: 357 correct out of 357 problems.
+308,1995,22,220,S
+assignment of variables: [6, 19, 8, 17, 2, 4, 5, 20, 22, -16, 1, 21, 11, 13, 7, -10, 14, -12, -15, -3, -18, -9]
+# of recursive calls: 25237
+Accuracy: 358 correct out of 358 problems.
+309,2238,22,220,S
+assignment of variables: [3, 6, 11, 17, 21, 2, 1, -12, 4, -9, 16, 13, -7, -22, -19, -20, 8, -5, 18, -10, 14]
+# of recursive calls: 25284
+Accuracy: 359 correct out of 359 problems.
+310,1920,22,220,S
+assignment of variables: [18, 7, 14, 6, 12, 3, 5, 20, 17, 19, -13, 1, 11, -10, -2, 8, -9, 16, 21, 4, 22]
+# of recursive calls: 25306
+Accuracy: 360 correct out of 360 problems.
+381,2004,22,220,S
+assignment of variables: [16, 13, 15, 1, 20, 5, 21, 22, 2, 18, 6, 4, 9, -10, 17, 12, 11, -8, 19, 7, 3, 14]
+# of recursive calls: 25335
+Accuracy: 361 correct out of 361 problems.
+382,1985,22,220,S
+assignment of variables: [2, 12, 20, 1, 4, 6, 22, 14, 18, 15, 13, 8, 3, 5, 16, -10, 9, -11, 19, 21, -7, 17]
+# of recursive calls: 25361
+Accuracy: 362 correct out of 362 problems.
+383,1948,22,220,S
+assignment of variables: [17, 9, 22, 10, 20, 19, 2, 12, 14, 1, 8, -4, 13, -6, 18, 3, -7, -21, 11, -15]
+# of recursive calls: 25384
+Accuracy: 363 correct out of 363 problems.
+384,1747,22,220,S
+assignment of variables: [21, 13, 16, 4, 8, 15, 10, 18, 1, 7, -17, 9, 3, 2, -12, -14, -19, 6, 20, 11, 22, 5]
+# of recursive calls: 25408
+Accuracy: 364 correct out of 364 problems.
+385,1887,22,220,S
+assignment of variables: [3, 1, 5, 20, 13, 2, 15, 6, 21, 9, 12, 17, 8, 11, 14, 10, 22, 18, -4, 7, 19]
+# of recursive calls: 25430
+Accuracy: 365 correct out of 365 problems.
+386,13803,22,220,S
+assignment of variables: [20, 21, 5, 15, 6, 4, 12, 18, 17, 1, 9, 3, 22, 14, -13, 16, 10, 7, 11, -2, 19, -8]
+# of recursive calls: 25453
+Accuracy: 366 correct out of 366 problems.
+387,1691,22,220,S
+assignment of variables: [15, 2, 7, 12, 3, 8, 4, 17, 1, 19, -6, 21, 16, 18, -14, 9, 10, 13, -5, 20]
+# of recursive calls: 25474
+Accuracy: 367 correct out of 367 problems.
+388,1882,22,220,S
+assignment of variables: [12, 7, 3, 13, 11, 8, 9, 16, 21, 20, 5, 19, 18, -1, -22, -6, 14, -17, 4, -15]
+# of recursive calls: 25503
+Accuracy: 368 correct out of 368 problems.
+389,1889,22,220,S
+assignment of variables: [22, 8, 15, 2, 14, 16, 5, 10, 9, 4, 11, 13, 3, -1, 20, 17, -21, 7, 19, -6]
+# of recursive calls: 25524
+Accuracy: 369 correct out of 369 problems.
+390,2039,22,220,S
+assignment of variables: [19, 17, 9, 10, 22, 21, 20, 2, 4, 14, 3, 1, 7, 5, -12, -18, 8, 13, 6, 15, 16, 11]
+# of recursive calls: 25551
+Accuracy: 370 correct out of 370 problems.
+231,79638,24,240,U
+assignment of variables: [-1, -14, -11, -4, -22, -23, -17, -21, -8, -9, -5, -7, -15, -10, 13, 2, -20, -16, 12, 19, 6]
+# of recursive calls: 27244
+Accuracy: 371 correct out of 371 problems.
+232,36556,24,240,S
+assignment of variables: [-9, -14, 21, 8, 11, 1, 2, -15, -4, 18, -19, 16, 10, 17, 23, -7, -5, 20, -12, 3, 13, -6, -24]
+# of recursive calls: 27948
+Accuracy: 372 correct out of 372 problems.
+233,85882,24,240,U
+assignment of variables: [-22, -9, -24, -4, 16, -11, -14, -21, 2, 23, 8, -20, 18]
+# of recursive calls: 29368
+Accuracy: 373 correct out of 373 problems.
+234,30272,24,240,S
+assignment of variables: [-11, 2, 12, 13, 21, 8, -20, 4, -5, 23, -24, -22, 7, -6, 17, -18, -19, 1, 9, -3, -16, -15, -14]
+# of recursive calls: 29933
+Accuracy: 374 correct out of 374 problems.
+235,12182,24,240,S
+assignment of variables: [12, 8, -3, -2, 10, -16, 18, -22, -21, 17, -5, -7, 4, -23, 15, 6, -13, 1, -19, 20, -9, 24, 11, -14]
+# of recursive calls: 30164
+Accuracy: 375 correct out of 375 problems.
+236,66914,24,240,U
+assignment of variables: [-22, -16, -3, -23, -19, -15, -24, 14, -10, 11, -13, -6]
+# of recursive calls: 31446
+Accuracy: 376 correct out of 376 problems.
+237,31471,24,240,S
+assignment of variables: [-20, 6, -14, 17, 1, 13, 10, 21, 4, 16, -7, -5, 3, 8, -18, -19, 12, 23, -24, -15, -9, 2, -22]
+# of recursive calls: 31817
+Accuracy: 377 correct out of 377 problems.
+238,29307,24,240,S
+assignment of variables: [-12, 18, 3, 20, 10, 8, 14, -17, 15, -9, 24, 13, -7, -1, -6, -16, 19, 2, 22, -23, 11, 5]
+# of recursive calls: 32415
+Accuracy: 378 correct out of 378 problems.
+239,54997,24,240,U
+assignment of variables: [-4, -12, -1, -9, -5, -15, -3, 22, -14, 10, -17, -11, -24, 2, -7, -19, 18]
+# of recursive calls: 33477
+Accuracy: 379 correct out of 379 problems.
+240,30295,24,240,S
+assignment of variables: [-20, 4, 1, 12, -11, 23, -2, -7, -9, 15, -3, 16, -10, -8, 5, 24, 19, 17, -14, 22, 6, 21, 18]
+# of recursive calls: 33989
+Accuracy: 380 correct out of 380 problems.
+311,3132,24,240,S
+assignment of variables: [9, 18, 24, 2, 23, 5, 4, 20, 21, 19, 3, 16, 6, -14, -17, 1, -15, -10, -7, -13, 11]
+# of recursive calls: 34028
+Accuracy: 381 correct out of 381 problems.
+312,2861,24,240,S
+assignment of variables: [21, 22, 24, 9, 11, 4, 6, 7, 12, 3, -10, 13, 20, -1, 16, 14, 19, 18, -2, 15, -17, -23, 8, 5]
+# of recursive calls: 34053
+Accuracy: 382 correct out of 382 problems.
+313,2943,24,240,S
+assignment of variables: [19, 22, 12, 3, 21, 17, 7, 10, 16, 1, 13, 6, 8, 23, 15, -11, 4, 9, 2, 18, 5, -24, 14, -20]
+# of recursive calls: 34085
+Accuracy: 383 correct out of 383 problems.
+314,3341,24,240,S
+assignment of variables: [7, 18, 2, 5, 11, 3, 8, 22, 6, -23, 9, -1, 20, 12, 24, -13, 17, -14, -4, -21, -10, 19, -16, -15]
+# of recursive calls: 34124
+Accuracy: 384 correct out of 384 problems.
+315,3466,24,240,S
+assignment of variables: [14, 5, 20, 24, 2, -12, 7, 4, 1, -9, 23, 15, 17, 3, 10, -19, -21, -8, 18, -22, -13, -16]
+# of recursive calls: 34199
+Accuracy: 385 correct out of 385 problems.
+316,3548,24,240,S
+assignment of variables: [1, 11, 8, 16, -15, -21, 5, 19, 3, -20, 9, -4, 12, 10, 14, -17, -22, 23, 13, 2, 24, -7, -6]
+# of recursive calls: 34256
+Accuracy: 386 correct out of 386 problems.
+317,3947,24,240,S
+assignment of variables: [15, 23, 10, 6, 9, -4, 24, 18, -19, 1, 14, 12, -2, 5, 17, 22, -8, 13, 3, 7, 20, -11, 21, -16]
+# of recursive calls: 34310
+Accuracy: 387 correct out of 387 problems.
+318,3199,24,240,S
+assignment of variables: [23, 15, 12, 16, 3, 22, 11, 18, 2, -20, 7, -13, 10, 17, 5, -19, 9, 24, 6, 14, -21, -8]
+# of recursive calls: 34354
+Accuracy: 388 correct out of 388 problems.
+319,2888,24,240,S
+assignment of variables: [6, 23, 22, 19, 16, 12, 13, 15, 2, 8, 10, -20, 14, -3, 4, 24, -9, -17, -18, 11, 21, 5, 7]
+# of recursive calls: 34388
+Accuracy: 389 correct out of 389 problems.
+320,2655,24,240,S
+assignment of variables: [15, 20, 18, 1, 6, 14, 19, 7, -21, 13, -17, 11, -16, 9, -5, 4, 22, -23, -3, 2, 10, -24, -12, 8]
+# of recursive calls: 34415
+Accuracy: 390 correct out of 390 problems.
+391,2293,24,240,S
+assignment of variables: [16, 23, 22, 6, 21, 15, 2, 9, 19, 1, 18, -3, 20, -8, 13, -10, 5, -24, 12, 11, 4, 7, 17, 14]
+# of recursive calls: 34440
+Accuracy: 391 correct out of 391 problems.
+392,2459,24,240,S
+assignment of variables: [20, 21, 19, 23, 24, 1, 6, 18, 8, -9, 16, 5, 3, 11, 13, -4, 10, -12, 17, -7, -15, -2, 14, 22]
+# of recursive calls: 34466
+Accuracy: 392 correct out of 392 problems.
+393,2539,24,240,S
+assignment of variables: [12, 1, 8, 6, 21, 3, 18, 5, 14, 10, 20, 16, 22, 17, 11, 15, -23, -24, 19, 4, 9, 7, -13, 2]
+# of recursive calls: 34491
+Accuracy: 393 correct out of 393 problems.
+394,2361,24,240,S
+assignment of variables: [8, 12, 16, 11, 20, 14, 23, 17, 3, 19, 9, -13, 1, 2, 18, 10, 6, -22, 7, -24, -4, 21, -15, 5]
+# of recursive calls: 34519
+Accuracy: 394 correct out of 394 problems.
+395,2479,24,240,S
+assignment of variables: [12, 10, 14, 17, 23, 5, 7, 9, 24, 18, 2, 19, 8, -22, -4, 15, -11, 21, 16, 20, 13, 3, -1]
+# of recursive calls: 34548
+Accuracy: 395 correct out of 395 problems.
+396,2432,24,240,S
+assignment of variables: [2, 20, 23, 17, 12, 9, 6, 22, 13, 16, 10, 1, 5, 18, 3, 7, 24, 4, 15, 19, 14, 21, 11]
+# of recursive calls: 34572
+Accuracy: 396 correct out of 396 problems.
+397,2329,24,240,S
+assignment of variables: [4, 13, 12, 15, 22, 23, 20, 14, 1, 16, 9, 17, 11, 6, 7, 18, 3, 5, 8, 19, 10, -24, 2, -21]
+# of recursive calls: 34598
+Accuracy: 397 correct out of 397 problems.
+398,2415,24,240,S
+assignment of variables: [13, 18, 14, 21, 4, 6, 24, 23, 12, 17, 22, 2, -8, 1, 3, -20, 7, 5, -15, -10, 16, 9, 11, 19]
+# of recursive calls: 34623
+Accuracy: 398 correct out of 398 problems.
+399,2228,24,240,S
+assignment of variables: [2, 23, 20, 4, 22, -18, -14, 19, 7, 10, 15, -12, 11, 9, 6, -5, 16, -1, -8, 3, 24, 21, 17]
+# of recursive calls: 34648
+Accuracy: 399 correct out of 399 problems.
+400,2262,24,240,S
+assignment of variables: [10, 5, 8, 13, 3, 4, 24, 2, 21, -16, 12, 22, -11, 14, -15, 20, -17, 18, 19, 7, -1, -9, -23]
+# of recursive calls: 34672
+Accuracy: 400 correct out of 400 problems.
