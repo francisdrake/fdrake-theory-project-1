@@ -32,4 +32,4 @@ A description of how you managed the code development and testing.
 I created a new git repository for this project and made a copy of it in my local environment. I tested in my local branch with a variety of files and outputs, which I filtered through before pushing any changes to main. As substantial changes were made, I added and committed them and eventually pushed them to main.
 
 Did you do any extra programs, or attempted any extra test cases
-I created a verbose output file detailing the assignments of variables (even if unsatisfiable) and number of recursive calls made. 
+I created a verbose output file detailing the assignments of variables (even if unsatisfiable) and number of recursive calls made. I also made graph.py which plotted my results using matplotlib.
